@@ -48,6 +48,7 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
+
 $$
 \begin{aligned}
 V=V_{1}+ V_{2}+V3\to \left( 1 \right)\\
@@ -68,6 +69,7 @@ Hence, Proved
 $$ 
 
 b.  KCL:
+
 $$
 \begin{aligned}
 At\enspace node\enspace A:\\
